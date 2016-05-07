@@ -6,5 +6,5 @@ ESP8266 Factory Reset  for cleaning esp8266 like new one.
 โปรแกรมนี้จะช่วยทำความสะอาดให้ บอร์ดของคุณกลับมาสะอาดสะอ้านเหมือนใหม่อีกครั้ง
 
 TridentTD
-FB : ESP82666 IoT
+(FB : ESP82666 IoT)
 
